@@ -8,8 +8,6 @@ To use the solver, download the picross_solver folder.
 2) Run the solve.py file.
 3) The solution will be printed in the output.txt file. "O" represents a filled cell, "." represents an empty cell.
 
-
-
 Example Picross puzzle:
 ![alt text](https://github.com/Jannik6928/picross-solver/blob/main/screenshots/example%20picross.png?raw=true)
 
