@@ -1,4 +1,4 @@
-# picross-solver
+# Picross Solver
 Short project which solves Nonogram (Picross) puzzles. 
 https://en.wikipedia.org/wiki/Nonogram
 
